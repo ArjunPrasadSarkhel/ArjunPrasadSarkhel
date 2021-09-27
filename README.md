@@ -1,4 +1,5 @@
-Hi there I am Arjun Prasad Sarkhel!! 👋
+# Hey Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Arjun Prasad Sarkhel and I'm currently exploring the vast field of Data Science. I'm from India, living in Calcutta. You can find me on on [Linkedin](https://www.linkedin.com/in/arjun-prasad-sarkhel-99b80896/).
 
 ![giphy](https://user-images.githubusercontent.com/49405291/134877841-822cdaa3-76ae-4953-9e12-e87b2b6f89ac.gif)
 
@@ -6,7 +7,7 @@ Kaggle 3x Expert - [Kaggle](https://www.kaggle.com/arjunprasadsarkhel)
 
 MachineHack Champion - [MachineHack](https://machinehack.com/user/profile/ui/612351d7e56c8032b78c5dc1)
 
-You can connect with me : - [Linkedin](https://www.linkedin.com/in/arjun-prasad-sarkhel-99b80896/)
+You can connect with me : - 
 
 More about me- https://apspportfolio.herokuapp.com/
 
