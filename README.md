@@ -1,7 +1,9 @@
+
+<img src="https://user-images.githubusercontent.com/49405291/134882927-dd1d4f93-c92f-4777-90ea-d89f9744f4ee.gif" height ="400px" width="1200px">
 # Hey Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Arjun Prasad Sarkhel and I'm currently exploring the vast field of Data Science. I'm from India, living in Calcutta. You can find me on on [Linkedin](https://www.linkedin.com/in/arjun-prasad-sarkhel-99b80896/).
 
-![giphy](https://user-images.githubusercontent.com/49405291/134877841-822cdaa3-76ae-4953-9e12-e87b2b6f89ac.gif)
+
 
 Kaggle 3x Expert - [Kaggle](https://www.kaggle.com/arjunprasadsarkhel)
 
