@@ -4,6 +4,8 @@
 # Hey Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Arjun and I'm currently studying Masters in Data Science. I take great care in the experience, architecture, and code quality of the things I build. I'm from India, living in Calcutta. You can find me on on [Linkedin](https://www.linkedin.com/in/arjun-prasad-sarkhel-99b80896/).
 
+Competencies: Statistical Data Modeling | Machine Learning | SQL | Python | R-programming | Java | Power BI | Excel | Docker | Streamlit | Azure
+
 Kaggle 3x Expert - [Kaggle](https://www.kaggle.com/arjunprasadsarkhel) 
 
 MachineHack Champion - [MachineHack](https://machinehack.com/user/profile/ui/612351d7e56c8032b78c5dc1)
