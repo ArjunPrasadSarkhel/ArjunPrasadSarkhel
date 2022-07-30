@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/49405291/134882927-dd1d4f93-c92f-4777-90ea-d89f9744f4ee.gif" height ="400px" width="1200px">
+<img src="https://user-images.githubusercontent.com/49405291/134882927-dd1d4f93-c92f-4777-90ea-d89f9744f4ee.gif" height ="400px" width="800px">
 
 # Hey Folks!
 My name is Arjun and I'm currently studying Masters in Data Science. I take great care in the experience, architecture, and code quality of the things I build. I'm from India, living in Calcutta. You can find me on on [Linkedin](https://www.linkedin.com/in/arjun-prasad-sarkhel-99b80896/).
